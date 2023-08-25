@@ -1,0 +1,12 @@
+D:\Visual Studio Projects\retirementcal\retirementcal\bin\Debug\retirementcal.exe.config
+D:\Visual Studio Projects\retirementcal\retirementcal\bin\Debug\retirementcal.exe
+D:\Visual Studio Projects\retirementcal\retirementcal\bin\Debug\retirementcal.pdb
+D:\Visual Studio Projects\retirementcal\retirementcal\obj\Debug\retirementcal.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\retirementcal\retirementcal\obj\Debug\retirementcal.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Projects\retirementcal\retirementcal\obj\Debug\retirementcal.Form1.resources
+D:\Visual Studio Projects\retirementcal\retirementcal\obj\Debug\retirementcal.Form2.resources
+D:\Visual Studio Projects\retirementcal\retirementcal\obj\Debug\retirementcal.Properties.Resources.resources
+D:\Visual Studio Projects\retirementcal\retirementcal\obj\Debug\retirementcal.csproj.GenerateResource.cache
+D:\Visual Studio Projects\retirementcal\retirementcal\obj\Debug\retirementcal.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\retirementcal\retirementcal\obj\Debug\retirementcal.exe
+D:\Visual Studio Projects\retirementcal\retirementcal\obj\Debug\retirementcal.pdb
